@@ -3,7 +3,7 @@ s = "Prova"
 s1 = "Prova1"
 print(s.upper())
 print(s.lower())
-print(s[2:3])
+print(s[2:])
 
 # supponiamo di voler gestire una persona che possa essere in grado di 
 # presentare se stessa al pubblico

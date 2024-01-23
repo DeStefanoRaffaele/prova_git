@@ -3,7 +3,7 @@ s = "Prova"
 s1 = "Prova1"
 print(s.upper())
 print(s.lower())
-print(s[2:])
+print(s[2:3])
 
 # supponiamo di voler gestire una persona che possa essere in grado di 
 # presentare se stessa al pubblico
@@ -11,8 +11,8 @@ print(s[2:])
 # Cosa significa?
 
 # Analizziamo la consegna:
-# Una persona è un componente che offre la possibilità di effettuare una presentazione
-# sì, ma cosa si intende per "persona"?
+# Una persona ï¿½ un componente che offre la possibilitï¿½ di effettuare una presentazione
+# sï¿½, ma cosa si intende per "persona"?
 # Possiamo pensare che una [persona] sia in grado di <comunicare> il proprio [nome] e il
 # proprio [cognome].
 #
